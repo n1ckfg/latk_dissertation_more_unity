@@ -1,0 +1,57 @@
+[submodule "AltspaceExample"]
+	path = AltspaceExample
+	url = https://github.com/n1ckfg/AltspaceExample
+[submodule "latkUnity_ARCore"]
+	path = latkUnity_ARCore
+	url = https://github.com/n1ckfg/latkUnity_ARCore
+[submodule "latkUnity_ARKit"]
+	path = latkUnity_ARKit
+	url = https://github.com/n1ckfg/latkUnity_ARKit
+[submodule "latkUnity_AzureKinect"]
+	path = latkUnity_AzureKinect
+	url = https://github.com/n1ckfg/latkUnity_AzureKinect
+[submodule "latkUnity_Cardboard"]
+	path = latkUnity_Cardboard
+	url = https://github.com/n1ckfg/latkUnity_Cardboard
+[submodule "latkUnity_Tango"]
+	path = latkUnity_Tango
+	url = https://github.com/n1ckfg/latkUnity_Tango
+[submodule "latkUnity_Mirage"]
+	path = latkUnity_Mirage
+	url = https://github.com/n1ckfg/latkUnity_Mirage
+[submodule "latkUnity_HoloLens"]
+	path = latkUnity_HoloLens
+	url = https://github.com/n1ckfg/latkUnity_HoloLens
+[submodule "latkUnity_Kinect"]
+	path = latkUnity_Kinect
+	url = https://github.com/n1ckfg/latkUnity_Kinect
+[submodule "latkUnity_LeapMotion"]
+	path = latkUnity_LeapMotion
+	url = https://github.com/n1ckfg/latkUnity_LeapMotion
+[submodule "latkUnity_MagicLeap"]
+	path = latkUnity_MagicLeap
+	url = https://github.com/n1ckfg/latkUnity_MagicLeap
+[submodule "latkUnity_Persee"]
+	path = latkUnity_Persee
+	url = https://github.com/n1ckfg/latkUnity_Persee
+[submodule "latkUnity_Hydra"]
+	path = latkUnity_Hydra
+	url = https://github.com/n1ckfg/latkUnity_Hydra
+[submodule "latkUnity_TiltFive"]
+	path = latkUnity_TiltFive
+	url = https://github.com/n1ckfg/latkUnity_TiltFive
+[submodule "latkUnity_Vive"]
+	path = latkUnity_Vive
+	url = https://github.com/n1ckfg/latkUnity_Vive
+[submodule "latkUnity_ViveSR"]
+	path = latkUnity_ViveSR
+	url = https://github.com/n1ckfg/latkUnity_ViveSR
+[submodule "latkUnity_ViveXR"]
+	path = latkUnity_ViveXR
+	url = https://github.com/n1ckfg/latkUnity_ViveXR
+[submodule "latkUnity_Wacom"]
+	path = latkUnity_Wacom
+	url = https://github.com/n1ckfg/latkUnity_Wacom
+[submodule "latkUnity_WMR"]
+	path = latkUnity_WMR
+	url = https://github.com/n1ckfg/latkUnity_WMR
